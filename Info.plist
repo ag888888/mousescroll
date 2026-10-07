@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>MouseScroll</string>
+    <key>CFBundleDisplayName</key><string>MouseScroll</string>
+    <key>CFBundleIdentifier</key><string>com.ag.mousescroll</string>
+    <key>CFBundleExecutable</key><string>MouseScroll</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>CFBundleDevelopmentRegion</key><string>en</string>
+    <key>CFBundleLocalizations</key>
+    <array><string>ar</string><string>bn</string><string>de</string><string>en</string><string>es</string><string>fr</string><string>hi</string><string>id</string><string>ja</string><string>ko</string><string>mr</string><string>pt</string><string>ru</string><string>ta</string><string>te</string><string>tr</string><string>ur</string><string>vi</string><string>zh-Hans</string><string>zh-Hant</string></array>
+    <key>LSUIElement</key><true/>
+</dict>
+</plist>
